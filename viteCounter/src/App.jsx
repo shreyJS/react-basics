@@ -10,7 +10,11 @@ function App() {
   
   const addValue = ()=>{
     if (count<20) {
-      setCount(count + 1) 
+      // using useState's callback function
+      setCount(count => count + 1)
+      setCount(count => count + 1)
+      setCount(count => count + 1)
+      setCount(count => count + 1)
     }
   }
 
