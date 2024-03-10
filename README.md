@@ -1,7 +1,7 @@
 ﻿# React Projects
 
  ### Projects
-
+***
 0. counter app - **Getting started** with vite
 1. Tailwind Props - App showing simple card using **component props**
 2. Background changer - Introductory app to react and vite which changes background colors upon user selection
@@ -13,3 +13,5 @@
 8. todos app - complete todos app using **context API**
 9. ReduxTodo - Todo app using **redux toolkit**
 10. Megablog - (in progress) Blogging app using all **react** concepts, **redux toolkit** and few other **third-party libraries** and using **appwrite** as backend service
+***
+sd
