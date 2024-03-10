@@ -14,4 +14,6 @@
 9. ReduxTodo - Todo app using **redux toolkit**
 10. Megablog - (in progress) Blogging app using all **react** concepts, **redux toolkit** and few other **third-party libraries** and using **appwrite** as backend service
 ***
-sd
+
+### Acknowledgements
+I thank [Hitesh Choudhary](http://www.youtube.com/@chaiaurcode) from bottom of my heart for teaching me all these concepts. I want to express my sincere gratitude for your incredible teaching. You not only explained all the React concepts clearly, but you also helped me build confidence by guiding me through numerous projects.  Thank you especially for sharing your knowledge on the industry standard project **Megablog**.  I couldn't have done it without your generosity and expertise!
